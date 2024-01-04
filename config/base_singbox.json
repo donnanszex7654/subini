@@ -81,7 +81,7 @@
     "outbounds": [],
     "route": {
         "rules": [],
-        "auto_detect_interface": true
+        "auto_detect_interface": false
     },
     "experimental": {
         "clash_api": {
