@@ -1,1 +1,2 @@
-🚀 节点选择`select`*
+🚀 节点选择`select`[]GLOBAL
+GLOBAL`select`[].*
